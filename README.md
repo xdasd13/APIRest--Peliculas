@@ -8,7 +8,7 @@ DB_PASSWORD =
 DB_USER = 
 DB_DATABASE =
 ```
-Restaurar la B: db>databse.sql
+Restaurar la BD: db>databse.sql
 
 Ejecutar el comando
 ```
